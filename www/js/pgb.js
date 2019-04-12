@@ -20,3 +20,7 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function personalInfo() {
+	navigator.notification.alert('Sebastian Nowak sebastian.sym@gmail.com');
+}
